@@ -13,6 +13,7 @@
 		ECD7E6C026BAD8E1003F6990 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECD7E6BE26BAD8E1003F6990 /* Main.storyboard */; };
 		ECD7E6C226BAD8E3003F6990 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECD7E6C126BAD8E3003F6990 /* Assets.xcassets */; };
 		ECD7E6C526BAD8E3003F6990 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECD7E6C326BAD8E3003F6990 /* LaunchScreen.storyboard */; };
+		ECD7E6D426BADD46003F6990 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = ECD7E6D326BADD46003F6990 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ECD7E6C126BAD8E3003F6990 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECD7E6C426BAD8E3003F6990 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECD7E6C626BAD8E3003F6990 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECD7E6D326BADD46003F6990 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ECD7E6B826BAD8E1003F6990 /* AppDelegate.swift */,
 				ECD7E6BA26BAD8E1003F6990 /* ViewController.swift */,
 				ECD7E6BC26BAD8E1003F6990 /* Experience.rcproject */,
+				ECD7E6D326BADD46003F6990 /* art.scnassets */,
 				ECD7E6BE26BAD8E1003F6990 /* Main.storyboard */,
 				ECD7E6C126BAD8E3003F6990 /* Assets.xcassets */,
 				ECD7E6C326BAD8E3003F6990 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECD7E6C526BAD8E3003F6990 /* LaunchScreen.storyboard in Resources */,
+				ECD7E6D426BADD46003F6990 /* art.scnassets in Resources */,
 				ECD7E6C226BAD8E3003F6990 /* Assets.xcassets in Resources */,
 				ECD7E6C026BAD8E1003F6990 /* Main.storyboard in Resources */,
 			);
